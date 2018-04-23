@@ -1,0 +1,16 @@
+{
+  "name": "look-of-disapproval",
+  "version": "1.0.0",
+  "description": "ಠ_ಠ",
+  "main": "index.js",
+  "repository": "stephenplusplus/look-of-disapproval",
+  "keywords": [
+    "you",
+    "know",
+    "what",
+    "you",
+    "did"
+  ],
+  "author": "Stephen <stephenplusplus@gmail.com>",
+  "license": "MIT"
+}
